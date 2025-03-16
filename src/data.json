@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "category": "Electronics",
+        "name": "Smartphone",
+        "brand": "Apple",
+        "price": 999,
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "category": "Electronics",
+        "name": "Laptop",
+        "brand": "Dell",
+        "price": 1200,
+        "stock": 30
+      },
+      {
+        "id": 3,
+        "category": "Electronics",
+        "name": "Wireless Earbuds",
+        "brand": "Sony",
+        "price": 150,
+        "stock": 100
+      },
+      {
+        "id": 4,
+        "category": "Clothing",
+        "name": "Men's T-Shirt",
+        "brand": "Nike",
+        "price": 25,
+        "stock": 200
+      },
+      {
+        "id": 5,
+        "category": "Clothing",
+        "name": "Women's Jacket",
+        "brand": "Zara",
+        "price": 80,
+        "stock": 60
+      },
+      {
+        "id": 6,
+        "category": "Clothing",
+        "name": "Jeans",
+        "brand": "Levi's",
+        "price": 50,
+        "stock": 75
+      },
+      {
+        "id": 7,
+        "category": "Home & Kitchen",
+        "name": "Air Fryer",
+        "brand": "Philips",
+        "price": 130,
+        "stock": 40
+      },
+      {
+        "id": 8,
+        "category": "Home & Kitchen",
+        "name": "Blender",
+        "brand": "NutriBullet",
+        "price": 90,
+        "stock": 55
+      },
+      {
+        "id": 9,
+        "category": "Beauty & Personal Care",
+        "name": "Face Cream",
+        "brand": "Nivea",
+        "price": 20,
+        "stock": 120
+      },
+      {
+        "id": 10,
+        "category": "Footwear",
+        "name": "Running Shoes",
+        "brand": "Adidas",
+        "price": 60,
+        "stock": 150
+      }
+    ]
+  }
+  
